@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    background-color: #f4f0e5;
+    font-family: tahoma;
+}
+
+.secao-1{
+    width: 700px;
+    margin: 30px auto;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.img-logo {
+    width: 300px;
+}
+
+h1 {
+    font-size: 32px;
+    margin-top: 60px;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+
+h2 {
+    color: rgb(218, 151, 26);
+    font-size: 20px;
+    margin: 10;    
+}
+a {
+    margin: 20px;
+    color: #4a2707;
+    font-weight: bold;
+}
+
+.secao-2 {
+    width: 700px;
+    margin: 10px auto;
+    text-align: center;
+    border-top: 2px solid rgb(231, 157, 59);
+}
+
+.img-produtos {
+    width: 700px;
+}
+.secao-3 {
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+    background-color: orange;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: white;
+}
+
+.secao-3, p {
+    line-height: 25px;
+}
+h3 {
+    font-size: 25px;
+    margin-top: 10px;
+
+}
+
+h4 {
+    font: 20px;
+}
+
+.img-paes {
+    width: 500px;
+}
+
+.img-bolos {
+    width: 500px;
+}
+
+.secao-4 {
+    text-align: center;
+    margin: auto;
+
+}
+
+span {
+    font-size: 18;
+    font-weight: bold;
+}
